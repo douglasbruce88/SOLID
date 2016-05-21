@@ -1,0 +1,20 @@
+﻿using System;
+namespace CSharp
+{
+    public class DoesTwoThings
+    {
+        public DoesTwoThings ()
+        {
+        }
+
+        public int NumberOfCommas()
+        {
+        }
+
+        public void Log(string message)
+        {
+            Console.WriteLine(message)
+        }
+    }
+}
+

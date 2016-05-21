@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "FSHarp", "FSHarp\FSHarp.fsproj", "{B44939F1-B841-41C7-A5BF-B1B580D1018E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp", "CSharp\CSharp.csproj", "{D49D27A9-10A7-417C-BFED-9D367B83C31C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B44939F1-B841-41C7-A5BF-B1B580D1018E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B44939F1-B841-41C7-A5BF-B1B580D1018E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B44939F1-B841-41C7-A5BF-B1B580D1018E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B44939F1-B841-41C7-A5BF-B1B580D1018E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D49D27A9-10A7-417C-BFED-9D367B83C31C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D49D27A9-10A7-417C-BFED-9D367B83C31C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D49D27A9-10A7-417C-BFED-9D367B83C31C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D49D27A9-10A7-417C-BFED-9D367B83C31C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
