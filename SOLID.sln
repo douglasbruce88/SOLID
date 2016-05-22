@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "FSHarp", "FSHarp\FSHarp.fsproj", "{B44939F1-B841-41C7-A5BF-B1B580D1018E}"
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "FSharp", "FSHarp\FSHarp.fsproj", "{B44939F1-B841-41C7-A5BF-B1B580D1018E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp", "CSharp\CSharp.csproj", "{D49D27A9-10A7-417C-BFED-9D367B83C31C}"
 EndProject
